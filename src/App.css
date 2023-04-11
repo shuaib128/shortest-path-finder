@@ -1,0 +1,37 @@
+.main-grid {
+    padding: 5px 20px;
+    height: calc(100vh - 63px);
+}
+
+#start-img, #target-img {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 3px;
+    left: 1px;
+}
+
+.Start {}
+
+h2 {
+    margin: 0px;
+}
+
+.header-main {
+    padding: 10px 20px;
+}
+
+table,
+th,
+td {
+    border: 1px solid rgb(175, 216, 248);
+    border-collapse: collapse;
+}
+
+.main-grid tr {}
+
+.main-grid td {
+    width: 25px;
+    height: 25px;
+    position: relative;
+}
